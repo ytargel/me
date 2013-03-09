@@ -14,10 +14,10 @@ h1 {
 #contant
 {
 	float:left;
-	width:100px;
-	height:100px;
-	margin-top:105px;
-	margin-left:0px;
-	background-image:url(../img/logo_03.png);
+	width:145px;
+	height:132px;
+	margin-top:70px;
+	margin-left:-20px;
+	background-image:url(../img/logo_04.png);
 	repeat:no-repeat bottomright;
 }
