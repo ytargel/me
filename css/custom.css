@@ -6,7 +6,8 @@ body
 
 h1 {
     padding-top:4em;
-    margin-right:20px;
+    margin-right:25px;
+    color:#8096AA;
 }
 
 
@@ -16,8 +17,11 @@ h1 {
 	float:left;
 	width:145px;
 	height:132px;
-	margin-top:70px;
+	margin-top:66px;
 	margin-left:-20px;
 	background-image:url(../img/logo_04.png);
 	repeat:no-repeat bottomright;
 }
+
+
+
