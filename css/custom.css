@@ -16,12 +16,55 @@ h1 {
 {
 	float:left;
 	width:145px;
-	height:132px;
-	margin-top:66px;
-	margin-left:-20px;
+	height:135px;
+	margin-top:25px;
+	margin-left:370px;
 	background-image:url(../img/logo_04.png);
 	repeat:no-repeat bottomright;
 }
+
+.contant
+{
+	text-align: center;
+}
+
+.contant h1
+{
+	padding-top:70px;
+    font-size: 100px;
+
+}
+
+.contant .lead
+{
+	padding-top:40px;
+	font-size: 20px;
+
+}
+
+.facebook
+{
+	float:left;
+	width:45px;
+	height:45px;
+	margin-top:5px;
+	margin-left:400px;
+	background-image:url(../img/facebook_icon.png);
+	repeat:no-repeat bottomright;
+}
+
+.instagram
+{
+	float:left;
+	width:45px;
+	height:45px;
+	margin-top:5px;
+	margin-left:15px;
+	background-image:url(../img/instagram_icon.png);
+	repeat:no-repeat bottomright;
+}
+
+
 
 
 
